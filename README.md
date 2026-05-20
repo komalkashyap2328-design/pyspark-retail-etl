@@ -108,6 +108,16 @@ Run the ETL pipeline:
 
 - python scripts/etl_pipeline.py
 
+## Screenshots
+
+### Pipeline Execution
+
+![Pipeline Execution](images/pipeline_success.png)
+
+### Output Files
+
+![Output Files](images/output_files.png)
+
 ## Final Result
 
 The pipeline converts raw retail transaction data into clean, business-ready analytics outputs using PySpark.
