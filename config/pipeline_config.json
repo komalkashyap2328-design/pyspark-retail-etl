@@ -1,0 +1,10 @@
+{
+  "app_name": "Retail ETL Pipeline",
+  "input_path": "data/data.csv",
+  "preview_rows": 10,
+  "outputs": {
+    "top_products": "output/top_products.csv",
+    "country_revenue": "output/country_revenue.csv",
+    "monthly_revenue": "output/monthly_revenue.csv"
+  }
+}

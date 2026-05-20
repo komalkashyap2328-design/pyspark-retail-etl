@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+logs/
+*.log
+output/top_products/
+.DS_Store
+Thumbs.db
